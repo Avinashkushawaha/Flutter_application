@@ -36,11 +36,16 @@ Follow these steps to set up and run the application:
    ```
 
 ## 📸 Screenshots
-### 📱 Mobile View
-<img src="screenshots/Mobile_PostView.jpg" alt="Mobile Screenshot" width="300px"/>
+### 📱 Mobile Post_View
+<img src="Mobile_PostView.jpg" alt="Mobile Screenshot" width="300px"/>
+### 📱 Mobile Description_View
+<src="Mobile_description_View.jpg" alt="Mobile Screenshot" width="300px"/>
 
-### 💻 Laptop View
-<img src="Flutter_application/laptop_post_view.png" alt="Laptop Screenshot" width="500px"/>
+
+### 💻 Laptop Post_View
+<img src="laptop_post_view.png" alt="Laptop Screenshot" width="500px"/>
+### 💻 Laptop Description_View
+<img src="laptop_deccription_view.png" alt="Laptop Screenshot" width="500px"/>
 
 ## 🤝 Contribution
 We welcome contributions! Follow these steps to contribute:
