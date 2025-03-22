@@ -1,19 +1,20 @@
 # 📱 Flutter Application
 
 ## 🚀 Overview
-A brief description of your Flutter application, its purpose, and key features.
+This Flutter application fetches and displays posts from an API (https://jsonplaceholder.typicode.com/posts). It demonstrates API integration, state management, and a responsive UI with a smooth user experience.
 
 ## ✨ Features
-- ✅ [Feature 1]
-- ✅ [Feature 2]
-- ✅ [Feature 3]
-- ✅ Responsive UI for mobile and laptop screens
-- ✅ [Any other notable feature]
+- ✅ Fetches data from a REST API using http package.
+- ✅ Displays posts in a structured and user-friendly UI.
+- ✅ Implements error handling and loading states.
+- ✅ Supports navigation to a detailed post view.
+- ✅ Responsive UI for mobile and laptop screens.
+- ✅ Responsive layout for mobile and tablet screens.
 
 ## 🛠️ Technologies Used
 - 🎯 **Flutter**
 - 🎯 **Dart**
-- 🎯 [Additional dependencies or libraries used]
+
 
 ## 📥 Installation
 Follow these steps to set up and run the application:
@@ -71,7 +72,6 @@ We welcome contributions! Follow these steps to contribute:
 ## 📞 Contact
 For any queries, reach out to:
 - **👤 Name:** Avinash Kushawaha
-- **📧 Email:** [Your Email]
-- **🔗 GitHub:** [Your GitHub Profile]
-- **🔗 LinkedIn:** [Your LinkedIn Profile]
+- **📧 Email:** [Mauryaavinash085@gmail.com]
+- **🔗 LinkedIn:** [www.linkedin.com/in/avinash-kushawaha-6b99a8216]
 
