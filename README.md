@@ -40,7 +40,7 @@ Follow these steps to set up and run the application:
 <img src="screenshots/Mobile_PostView.jpg" alt="Mobile Screenshot" width="300px"/>
 
 ### 💻 Laptop View
-<img src="screenshots/laptop_post_view.png" alt="Laptop Screenshot" width="500px"/>
+<img src="Flutter_application/laptop_post_view.png" alt="Laptop Screenshot" width="500px"/>
 
 ## 🤝 Contribution
 We welcome contributions! Follow these steps to contribute:
