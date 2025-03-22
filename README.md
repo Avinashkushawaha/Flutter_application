@@ -37,10 +37,10 @@ Follow these steps to set up and run the application:
 
 ## 📸 Screenshots
 ### 📱 Mobile View
-<img src="screenshots/mobile_screenshot.png" alt="Mobile Screenshot" width="300px"/>
+<img src="screenshots/Mobile_PostView.jpg" alt="Mobile Screenshot" width="300px"/>
 
 ### 💻 Laptop View
-<img src="screenshots/laptop_screenshot.png" alt="Laptop Screenshot" width="500px"/>
+<img src="screenshots/laptop_post_view.png" alt="Laptop Screenshot" width="500px"/>
 
 ## 🤝 Contribution
 We welcome contributions! Follow these steps to contribute:
